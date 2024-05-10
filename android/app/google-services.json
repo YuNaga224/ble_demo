@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306315339489",
+    "project_id": "bledemo-9d937",
+    "storage_bucket": "bledemo-9d937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306315339489:android:6e1612a1634850ec6b39a0",
+        "android_client_info": {
+          "package_name": "com.example.ble_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxvQScW_yVXdNr8chvPpRGJqgB9416nqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
